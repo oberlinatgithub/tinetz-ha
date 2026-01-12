@@ -1,0 +1,10 @@
+{
+  "domain": "tinetz",
+  "name": "TINETZ Netzbetreiber",
+  "version": "0.1.0",
+  "documentation": "https://github.com/deinname/tinetz-ha",
+  "requirements": [],
+  "codeowners": ["@deinname"],
+  "config_flow": true,
+  "iot_class": "cloud_polling"
+}
